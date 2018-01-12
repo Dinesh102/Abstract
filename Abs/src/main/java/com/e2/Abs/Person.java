@@ -10,7 +10,7 @@ package com.e2.Abs;
             System.out.println("give"+present);
             }
         void givePresent(String present){
-            System.out.println("givee2  "+present);
+            System.out.println("give2  "+present);
         }
         
 
