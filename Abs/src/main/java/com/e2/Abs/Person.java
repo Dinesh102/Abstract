@@ -11,6 +11,7 @@ package com.e2.Abs;
             }
         void givePresent(String present){
             System.out.println("give2  "+present);
+            System.out.println("give2  "+present);
         }
         
 
